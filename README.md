@@ -2,7 +2,7 @@
   <h1>🚁 Drone Flight Controller RTOS</h1>
   <p>A custom Real-Time Operating System flight controller for quadcopters built on FreeRTOS.</p>
 
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://paypal.me/ahmedqandel)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://www.paypal.com/donate/?business=freelacning8518@gmail.com)
 </div>
 
 ## Overview
